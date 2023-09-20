@@ -126,6 +126,7 @@ h1{
 .baloons img {
   display: inline-block;
   position: absolute;
+  z-index: -2;
 }
 
 .baloons img:nth-child(even) {
