@@ -1,2 +1,3 @@
-# All-About-Adel
-Ini dibuat dengan tujuan membuat mood Adel menjadi baik selalu 
+# All-About-Samantha Yolia Kuo
+-----------------------------------
+
